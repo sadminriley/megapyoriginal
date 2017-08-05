@@ -3,6 +3,7 @@ A python wrapper to make the MegaCLI tool more user friendly, and the commands e
 
 # MegaPy Usage
 
+```
 
 MegaPy v.1
 usage: megapy.py [-h] [--enclosure ENCL] [--physical PHYS] [--vdrive VDRIVE]
@@ -16,3 +17,5 @@ optional arguments:
   --physical PHYS       View the servers physical drive information
   --vdrive VDRIVE       View the servers virtual drive information
   --controller CONTROL  View the servers controller information
+
+```
